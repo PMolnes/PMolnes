@@ -1,6 +1,6 @@
 ### Hi there, I'm Petter Molnes 👋
 
-<div>
+<div align="center">
 <a href="https://www.linkedin.com/in/petter-molnes-532596202/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
 </a>
