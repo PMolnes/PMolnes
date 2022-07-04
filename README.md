@@ -1,10 +1,21 @@
-### Hi there, I'm Petter Molnes 👋
+<header>
+   <div align="center">
+    <a href="https://www.linkedin.com/in/petter-molnes-532596202/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+    </a>
+  </div>
+  <h1 align="center">Hi there, I'm Petter Molnes 👋</h1>
+</header>
+<main>
+  <div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
+</main>
 
-<div align="center">
-<a href="https://www.linkedin.com/in/petter-molnes-532596202/">
-<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
-</a>
-</div>
+---
+
+### :man_technologist: About Me :
+#### I'm a full stack developer from Norway - Aalesund.
 
 <!--
 **PMolnes/PMolnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
