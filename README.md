@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Petter Molnes 👋
+
+<div>
+<a href="https://www.linkedin.com/in/petter-molnes-532596202/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+</a>
+</div>
 
 <!--
 **PMolnes/PMolnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
