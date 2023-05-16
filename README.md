@@ -42,12 +42,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" width="30px" />
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="30px" />
 </div>
-
-### 🔥 My stats :
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PMolnes)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PMolnes)
-
-
 <!--
 **PMolnes/PMolnes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
